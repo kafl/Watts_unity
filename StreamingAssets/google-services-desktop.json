@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1074864140245",
+    "firebase_url": "https://wattsunity-90192-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "wattsunity-90192",
+    "storage_bucket": "wattsunity-90192.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074864140245:android:ee816f397ebdc2650f575c",
+        "android_client_info": {
+          "package_name": "com.dafirm.LWRPboxhouse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074864140245-d6vsi80dvggntmp5d36poeeb1kbvmj0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEwLO42wjhcPeM6FDq39NBfTzYAs1ceww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074864140245-d6vsi80dvggntmp5d36poeeb1kbvmj0o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1074864140245-eq0460ffujmh0nn9qqqisl2cv2dkp5sp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dafirm.LWRPboxhouse"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
